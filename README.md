@@ -26,7 +26,7 @@ To analyze employee attendance patterns across departments, locations, and shift
 - Automated KPI calculations in Power BI to reduce manual reporting time
 
 ## Dashboard Description
-Dasboard <a href = "https://github.com/anirbanghosh631/Data-Analysis-Dashboard/blob/main/Screenshot%20(331).png">Dashboard Summary</a>
+<a href = "https://github.com/anirbanghosh631/Data-Analysis-Dashboard/blob/main/Screenshot%20(331).png">Dashboard Summary</a>
 
 ## Conclusion
 The analysis identified key patterns in attendance behavior, enabling data-driven decisions for workforce planning. Insights from the dashboard can lead to a potential 15% improvement in planning efficiency, while automation of KPI tracking reduced reporting time by 80%.
