@@ -5,3 +5,9 @@ To analyze employee attendance patterns across departments, locations, and shift
 - <a href= "https://github.com/anirbanghosh631/Data-Analysis-Dashboard/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Dataset</a>
 - 30,000+ attendance records
 - Attributes: employee ID, department, location, shift, attendance status, overtime hours, and timestamps
+## Questions (KPI)
+-What is the overall attendance rate?
+-How many late arrivals occur per department/shift?
+-What is the absenteeism percentage?
+-What are the total overtime hours worked?
+-Which locations or departments have the highest absenteeism/late arrivals?
