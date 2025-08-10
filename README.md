@@ -12,6 +12,7 @@ To analyze employee attendance patterns across departments, locations, and shift
 - What are the total overtime hours worked?
 - Which locations or departments have the highest absenteeism/late arrivals?
 ## Dashboard
+- Dashboard Interaction <a href = "https://github.com/anirbanghosh631/DataAnalysisDashboard/blob/main/Atliq%20HR%20Analytics%20Turning%20Attendance%20Data%20into%20Actionable%20Insights%20using%20Microsoft%20PowerBI.pbix">View Dashboard</a>
 - Interactive Power BI dashboard with:
 - Department-wise attendance and absenteeism charts
 - Overtime trend analysis
