@@ -11,3 +11,9 @@ To analyze employee attendance patterns across departments, locations, and shift
 - What is the absenteeism percentage?
 - What are the total overtime hours worked?
 - Which locations or departments have the highest absenteeism/late arrivals?
+## Dashboard
+- Interactive Power BI dashboard with:
+- Department-wise attendance and absenteeism charts
+- Overtime trend analysis
+- Late arrival heatmaps by shift and location
+- Dynamic filters for time period, department, and location
