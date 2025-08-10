@@ -18,3 +18,9 @@ To analyze employee attendance patterns across departments, locations, and shift
 - Overtime trend analysis
 - Late arrival heatmaps by shift and location
 - Dynamic filters for time period, department, and location
+
+## Process of Analysis
+- Collected and cleaned attendance data
+- Processed records to calculate KPIs (attendance rate, absenteeism %, overtime hours)
+- Applied filters for department, shift, and location segmentation
+- Automated KPI calculations in Power BI to reduce manual reporting time
